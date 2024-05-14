@@ -67,7 +67,7 @@ Provide visualizations or summary statistics to support the findings.
 
 ## Authors
 
-- Rajbhuwan Jaitawat
+- Saad Falke
 
 ## License
 Its free Guysss :)
