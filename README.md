@@ -1,7 +1,7 @@
 # Friends-Data-Cleaning.
 Cleaning of Friends Data Set.
 
-#### Assignment Link: https://github.com/rajbhuwan1510/Day-3/tree/main/Friends_data_cleaning
+
 
 ## Objective
 The primary objective of this project is to perform the following tasks:
